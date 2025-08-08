@@ -1,0 +1,18 @@
+{
+"Server":"Front",
+"Host":"Front",
+"Dish":"Kitchen",
+"Bartender":"Front",
+"Training FOH":"Front",
+"Manager":"Front",
+"Kitchen":"Kitchen",
+"Totals":"DNC",
+"Lead Cashier":"DNC",
+"Grant Totals":"Hourly Employees",
+"Register-DT":"DNC",
+"Register":"DNC",
+"BACK OF":"DNC",
+"FRONT OF":"DNC",
+"FRONT OF HOUSE":"Front",
+"BACK OF HOUSE":"Kitchen"
+ }
